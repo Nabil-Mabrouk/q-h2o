@@ -3,7 +3,7 @@
 
 <!-- Add a banner or header image for your project (optional) -->
 <p align="center">
-  <img src="baniere.gif" alt="Banner Image">
+  <img src="Baniere.gif" alt="Banner Image">
 </p>
 
 <!-- Add a project logo (optional) -->
