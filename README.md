@@ -3,12 +3,12 @@
 
 <!-- Add a banner or header image for your project (optional) -->
 <p align="center">
-  <img src="Baniere.gif" alt="Banner Image" width="800" height="200">
+  <img src="Baniere.gif" alt="Banner Image" width="800">
 </p>
 
 <!-- Add a project logo (optional) -->
 <p align="center">
-  <img src="logo.gif" alt="Project Logo" width="200" height="200">
+  <img src="logo.gif" alt="Project Logo" width="200">
 </p>
 
 <!-- Brief project description -->
