@@ -1,5 +1,5 @@
 <!-- Replace with your project name -->
-<h1 align="center">Solving Water Allocation Problems using Quantum Computing</h1>
+<h1 align="center">Water Allocation Optimization using Quantum Computing</h1>
 
 <!-- Add a banner or header image for your project (optional) -->
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <!-- Brief project description -->
-<p align="center">Water allocation problems necessitate the equitable distribution of finite water resources among competing users. These issues are frequently framed as optimization problems, requiring the allocation of multiple water sources across diverse users while adhering to various constraints. We propose to formulate water allocation problem as a Qudratic Assignement Problem that we will reduce to a Quadratic Unconstrained Binary Optimization problem to make it compatible with quantum computing.</p>
+<p align="justify">Water allocation problems necessitate the equitable distribution of finite water resources among competing users. These issues are frequently framed as optimization problems, requiring the allocation of multiple water sources across diverse users while adhering to various constraints. We propose to formulate water allocation problem as a Qudratic Assignement Problem that we will reduce to a Quadratic Unconstrained Binary Optimization problem to make it compatible with quantum computing.</p>
 
 <!-- Table of Contents -->
 ## Table of Contents
